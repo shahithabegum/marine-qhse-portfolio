@@ -24,3 +24,5 @@ The contact form uses `mailto:` and opens the visitor's email app; it does not s
 
 ## Customize
 Update the resume information in `src/App.tsx`. Skill percentages are illustrative portfolio indicators. The 3D ship is a stylized mesh model made from Three.js primitives.
+# marine-qhse-portfolio
+Marine QHSE Professional Portfolio
